@@ -1,5 +1,5 @@
 # Juan Carabali (CJ)
-**Machine Learning & Computer Vision Engineer** | **CEO at [CODE IN CO SOLUTIONS](https://website-name.com)** | **AI Innovator & Entrepreneur**  
+**Machine Learning & Computer Vision Engineer** | **CEO at [CODE IN CO SOLUTIONS](https://codeinco.tech)** | **AI Innovator & Entrepreneur**  
 
 I'm a software developer specialized in **Machine Learning** and **Computer Vision**, passionate about AI-driven solutions and automation. As the **CEO of CODE IN CO**, I build scalable and high-performance AI systems for real-world applications.  
 
