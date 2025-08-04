@@ -6,7 +6,7 @@ I'm a software developer specialized in **Machine Learning** and **Computer Visi
 ## 💻 Tech Stack  
 - **Programming:** Python, JavaScript 
 - **Machine Learning:** TensorFlow, PyTorch, ONNX, Scikit-learn  
-- **Computer Vision:** OpenCV, YOLOv8, Detectron2, MediaPipe  
+- **Computer Vision:** OpenCV, YOLO, Detectron2, MediaPipe  
 - **Data Processing:** Albumentations, Roboflow, CVAT
 - **Optimization & Inference:** TensorRT, ONNX Runtime
 - **Deployment:** Flask, FastAPI, Docker, AWS, GCP
